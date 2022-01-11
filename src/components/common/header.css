@@ -33,6 +33,7 @@ header.compaq .container {
 
 .header .logo {
   position: relative;
+  margin-top: -20px;
 }
 
 .header .logo svg {

@@ -55,7 +55,7 @@ const Contact = () => {
                 mt="25px"
                 bgColor="#00cf5d"
                 color="#fff"
-                link="geddamjaswanth4@gmail.com"
+                link="mailto:geddamjaswanth4@gmail.com"
               />
             </div>
           </div>

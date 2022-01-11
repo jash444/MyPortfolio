@@ -1,6 +1,6 @@
 export const skills = {
   Web: [
-    { name: "React", percent: 100 },
+    { name: require("../components/imges/react.jpg"), percent: 100 },
     { name: "Node JS", percent: 100 },
     { name: "Express JS", percent: 100 },
     { name: "EchmaScript", percent: 100 },
@@ -21,5 +21,5 @@ export const skills = {
     { name: "Vercel", percent: 100 },
     { name: "Heroku", percent: 100 },
     { name: "MongoDB Atlas", percent: 100 },
-  ],
+  ], 
 }
