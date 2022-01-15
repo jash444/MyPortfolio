@@ -12,12 +12,12 @@ export const portfolios = {
     },
     {
       type: "featured",
-      name: "Sephora",
+      name: "Mobile Premier League ",
       image: require("./image/Screenshot (370).png"),
       description:
-        "Sephora deals with girls makeup things",
-      demo: "https://github.com/jash444/sephora",
-      source: "https://github.com/jash444/sephora",
+        "Mobile Premier League (MPL) is India’s largest eSports and mobile gaming platform ",
+      demo: "https://mplclone.herokuapp.com",
+      source: "https://github.com/nileshagrawal98/MPL-Cloning",
       tools: ["EJS", "HTML", "CSS", "MongoDB"],
     },
   ],
